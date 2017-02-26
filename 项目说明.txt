@@ -1,4 +1,4 @@
-1.¸üĞÂÖ®Ç°±£ÕÏnginxºÍtomcatÊÇ¹Ø±Õ×´Ì¬¡£²é¿´ÃüÁî:ps -aux|grep tomcat»òps -aux|grep nginx
-2.ÔËĞĞsetup.sh
-3.Æô¶¯nginxºÍtomcat
-4.Íê³É¸üĞÂ
+1.æ›´æ–°ä¹‹å‰ä¿éšœnginxå’Œtomcatæ˜¯å…³é—­çŠ¶æ€ã€‚æŸ¥çœ‹å‘½ä»¤:ps -aux|grep tomcatæˆ–ps -aux|grep nginx
+2.è¿è¡Œsetup.sh
+3.å¯åŠ¨nginxå’Œtomcat
+4.å®Œæˆæ›´æ–°
