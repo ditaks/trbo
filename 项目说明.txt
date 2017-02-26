@@ -1,1 +1,4 @@
-主要说明setup.sh功能
+1.更新之前保障nginx和tomcat是关闭状态。查看命令:ps -aux|grep tomcat或ps -aux|grep nginx
+2.运行setup.sh
+3.启动nginx和tomcat
+4.完成更新
